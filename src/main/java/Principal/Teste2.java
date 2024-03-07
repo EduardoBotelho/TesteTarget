@@ -1,7 +1,6 @@
 package Principal;
 
 import java.util.Scanner;
-import java.util.concurrent.ScheduledExecutorService;
 
 public class Teste2 {
 
